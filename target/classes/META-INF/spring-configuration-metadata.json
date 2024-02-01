@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "currencyservice",
+      "type": "com.example.springboot.learnepringboot.CurrencyServiceConfiguration",
+      "sourceType": "com.example.springboot.learnepringboot.CurrencyServiceConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "currencyservice.key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot.learnepringboot.CurrencyServiceConfiguration"
+    },
+    {
+      "name": "currencyservice.url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot.learnepringboot.CurrencyServiceConfiguration"
+    },
+    {
+      "name": "currencyservice.username",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot.learnepringboot.CurrencyServiceConfiguration"
+    }
+  ],
+  "hints": []
+}
